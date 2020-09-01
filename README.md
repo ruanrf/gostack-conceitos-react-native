@@ -1,4 +1,4 @@
-# gostack-conceitos-react-native
+# gostack-conceitos-react-native   :rocket:
 
 Challenge proposed by <a href="https://github.com/rocketseat-education">@Rocketseat</a> during the GoStack Bootcamp.
 
